@@ -2,7 +2,7 @@
 
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="a1_description">
 
-    <!-- Constants for robot dimensions -->
+    <!-- Constants for robot dimensions a test -->
     <xacro:property name="stick_mass" value="0.00001"/>
 
     <!-- simplified collision value -->
